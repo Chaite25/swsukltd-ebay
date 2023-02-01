@@ -59,6 +59,7 @@ ul {
     font-family: 'Roboto', sans-serif;
     width: 100%;
     display: inline-block;
+overflow: hidden;
 }
 
 #gh-logo {
